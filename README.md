@@ -1,2 +1,5 @@
 # hello--world
-just another repository
+
+hey everybody!
+
+welcome to node world!
